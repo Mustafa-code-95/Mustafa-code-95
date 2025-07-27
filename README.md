@@ -7,3 +7,5 @@ Ich benutze oft die programmiersprachen **`Python`** und **`Lua`** aber am meist
 ![grafik](https://github.com/user-attachments/assets/10f0c177-90ad-49e4-9efa-3ce8fde0e216)
 
 Auf **`python`** benutze ich oft die game engine ***`ursina.`***
+
+<img width="1020" height="308" alt="grafik" src="https://github.com/user-attachments/assets/d342209b-8ac3-4dad-80d0-bd18eca72e86" />

@@ -8,4 +8,6 @@ Ich benutze oft die programmiersprachen **`Python`** und **`Lua`** aber am meist
 
 Auf **`python`** benutze ich oft die game engine ***`ursina.`***
 
-<img width="1020" height="308" alt="grafik" src="https://github.com/user-attachments/assets/d342209b-8ac3-4dad-80d0-bd18eca72e86" />
+# <img width="1020" height="308" alt="grafik" src="https://github.com/user-attachments/assets/d342209b-8ac3-4dad-80d0-bd18eca72e86" />
+
+Ich habe über 100 contributions in 2025 ereicht

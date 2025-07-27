@@ -1,4 +1,4 @@
-# ![flamingtext_com-2997126801](https://github.com/user-attachments/assets/0d156071-866f-41eb-84b5-6b9098f43197)
+# <img width="911" height="111" alt="flamingtext_com-38465571315" src="https://github.com/user-attachments/assets/8bcf1091-0e9f-4de1-8293-b5c843da052c" />
 
 Ich arbeite gerade an einen Projekt auf ***`Python!`***
 

@@ -8,5 +8,4 @@ Ich benutze oft die programmiersprachen **`Python`** und **`Lua`** aber am meist
 
 Auf **`python`** benutze ich oft die game engine ***`ursina.`***
 
-![grafik](https://github.com/user-attachments/assets/7fed601e-e2d2-4ae1-9b19-a12b6556e19a)
-![grafik](https://github.com/user-attachments/assets/2fcf6d88-885a-4fce-87e9-81b79717b10a)
+![grafik](https://github.com/user-attachments/assets/7fed601e-e2d2-4ae1-9b19-a12b6556e19a)![grafik](https://github.com/user-attachments/assets/2fcf6d88-885a-4fce-87e9-81b79717b10a)
